@@ -46,7 +46,7 @@
 
 - [ProtonDB Rating Extension](https://github.com/MostwantedRBX/proton-chrome-extension) for Chrome using basic Javascript, CSS, Chrome Events and an API from ProtonDB to display the predicted experience you'll have running the game on Linux through Steam's Proton layer. <br>
 
-- [Discord Bot](https://github.com/MostwantedRBX/panda-discord-bot) written in Golang. I've have several api's working together to provide fun and functionality to Discord servers like crypto tracking, dice games, an image to ascii converter written by me in python that downloads a url and turns it into an ascii art image and more.
+- [Discord Bot](https://github.com/MostwantedRBX/panda-discord-bot) written in Golang. I have several api's working together to provide fun and functionality to Discord servers like crypto tracking, dice games, an image to ascii converter written by me in python that downloads a url and turns it into an ascii art image and more.
 
 
 
