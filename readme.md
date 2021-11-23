@@ -9,7 +9,7 @@
 <br />
 
 ### Contact Me:
-[<img align="left" alt="Jereb Gainer | LinkedIn" width="64px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jereb Gainer | LinkedIn" height="64" width="64px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GitHub" width="60px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 <br />
