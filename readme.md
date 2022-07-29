@@ -6,6 +6,8 @@
 - The reason I started programming was due to my love for modding and making games as a kid.
 - I have a strong curiosity as to how libraries and open source software works, so I'm on here a lot to skim projects.
 
+[![MostwantedRBX's GitHub stats](https://github-readme-stats.vercel.app/api?username=MostwantedRBX&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 
 ### Contact Me:
@@ -42,7 +44,6 @@
 
 ### Some noteable projects:
 - [URL Shortener](https://github.com/MostwantedRBX/urlshortener) that utilizes an SQL database, ReactJS front end, and Golang backend; Deployed on a Linux server. <br>
-[<img align="left" alt="Url Shortener" src="pics/urlshortener.png" />][urlshortener]<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 - [ProtonDB Rating Extension](https://github.com/MostwantedRBX/proton-chrome-extension) for Chrome using basic Javascript, CSS, Chrome Events and an API from ProtonDB to display the predicted experience you'll have running the game on Linux through Steam's Proton layer. <br>
 
